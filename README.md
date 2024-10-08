@@ -2,5 +2,5 @@
  # Workshop Git
 
 
-hello world
+hello, world
 
